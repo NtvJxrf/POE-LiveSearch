@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "axios": "^1.8.3",
+    "express": "^4.21.2",
+    "http-proxy-agent": "^7.0.2",
+    "https-proxy-agent": "^7.0.6",
+    "ws": "^8.18.1"
+  },
+  "name": "poe-livesearch",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module"
+}
